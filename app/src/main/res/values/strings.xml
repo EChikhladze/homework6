@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">homework6</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="add_user">Add User</string>
+    <string name="remove_user">Remove User</string>
+    <string name="update_user">Update User</string>
+    <string name="number_of_active_users">Number of Active Users:</string>
+    <string name="number_of_deleted_users">Number of Deleted Users:</string>
+    <string name="requiredField">This field is required</string>
+    <string name="invalid_input">Invalid Input</string>
+    <string name="add_success_msg">User added successfully</string>
+    <string name="add_error_msg">User already exists</string>
+    <string name="remove_success_msg">User deleted successfully</string>
+    <string name="remove_error_msg">User does not exist</string>
+    <string name="update_success_msg">User updated successfully</string>
+    <string name="update_prompt">Enter new data and click update</string>
+</resources>
